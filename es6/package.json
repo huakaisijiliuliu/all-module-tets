@@ -1,0 +1,16 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "//es6有浏览器不支持\r //es6编译为es5中有require语法需要使用browserify进行打包编译\r //es6转二是使用的工具是babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "browserify": "^16.5.0"
+  }
+}

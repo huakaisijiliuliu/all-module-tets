@@ -1,0 +1,11 @@
+export function  foo(){
+  console.log("module1  foo")
+}
+
+export function bar (){
+    console.log("module1  bar")
+}
+
+export function car (){
+    console.log("module1  car")
+}
